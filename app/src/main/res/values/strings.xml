@@ -1,10 +1,17 @@
 <resources>
     <string name="app_name">Back4App</string>
 
-<!--Back for app client and user keys -->
+    <!--Back for app client and user keys -->
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
 
     <!-- Change the following strings as required -->
     <string name="back4app_app_id">3dma4RXhpS4ooNpx9lNV3hBzfQMtHXxrlyzsWAGt</string>
     <string name="back4app_client_key">XFYvtjLyMm2H8OsbUb5CqByvgoNhZrpPfnMjyNSb</string>
+    <string name="barber_logo">barber_logo</string>
+    <string name="fb_logo">Fb_Logo</string>
+    <string name="twitterlogo">twitterLogo</string>
+    <string name="divider">divider</string>
+    <string name="username">Username/Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
 </resources>

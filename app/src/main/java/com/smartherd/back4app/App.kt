@@ -3,17 +3,16 @@ package com.smartherd.back4app
 import android.app.Application
 import com.parse.Parse
 
-open class App:Application() {
+ class App : Application() {
 
-    override fun onCreate() {
-        super.onCreate()
-        initializeParse()
+     override fun onCreate() {
+         super.onCreate()
+         initializeParse()
 
 
-    }
+     }
 
-    fun initializeParse()
-    {
+     fun initializeParse() {
         Parse.initialize(Parse.Configuration.Builder(this)
             .applicationId(getString(R.string.back4app_app_id))
             .clientKey(getString(R.string.back4app_client_key))

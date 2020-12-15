@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="barber_color">#61512a</color>
+    <color name="barber_color_variant">#4C4021</color>
+    <color name="box_color">#EDEFF1</color>
+
+
 </resources>

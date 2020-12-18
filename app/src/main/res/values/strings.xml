@@ -11,7 +11,10 @@
     <string name="fb_logo">Fb_Logo</string>
     <string name="twitterlogo">twitterLogo</string>
     <string name="divider">divider</string>
-    <string name="username">Username/Email</string>
+    <string name="username">Username</string>
     <string name="login">Login</string>
     <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_registered_login">Already registered? Login</string>
 </resources>
